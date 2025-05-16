@@ -9,6 +9,7 @@
 
 | Mã Thành Viên    | Họ Tên                 |
 |------------------|------------------------|
-| 2280603758       | Trần Long Vũ           | 
-| 2280601752       | Lê Đại Thanh Long      | 
-| 2280607474       | Nguyễn Khắc Minh Hiếu  |
+| 24ITB052         | Ngô Phạm Minh Hoàng    | 
+| 24ITB053         | Nguyễn Văn Hoàng       | 
+| 24ITB            | Lê Thị Nhi             |
+| 24ITB            | Nguyễn Khánh Quốc      |
